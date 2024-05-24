@@ -44,7 +44,7 @@
     .banner1{
         display: flex;
         justify-content: center;
-        
+
     }
     .estudante_titulo{
         padding: 50px;
@@ -82,9 +82,11 @@
         padding: 24px 0;
         text-align:center;
         display:block;
-
+        
+        
     }
-    .ecola-titulo{padding: 50px;
+    .escola-titulo{
+        padding: 50px;
         text-align: center;
 
     }
