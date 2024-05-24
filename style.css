@@ -16,14 +16,14 @@
     
     }
 
-    .cabeçalho-itens{
-        max-width: 1600px;
+    .cabecalho-itens{
+        max-width: 1980px;
         margin:0 auto;
         display: flex;
         align-items: center;
         justify-content: center;
     }
-    .cabeçalho-imagens{
+    .cabecalho-imagens{
         width: 10%;
         display:flex;
         justify-content: flex-start;
