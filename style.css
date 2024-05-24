@@ -33,7 +33,7 @@
         padding: 50px;
         text-align: center;
         width: 50%;
-        font: 50px;
+        font: 60px;
     }
     .sociais{
         display: flex;
@@ -44,6 +44,7 @@
     .banner1{
         display: flex;
         justify-content: center;
+        padding: 100px;
     }
     .estudante_titulo{
         padding: 50px;
