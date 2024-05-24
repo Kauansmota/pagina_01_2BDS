@@ -17,7 +17,7 @@
     }
 
     .cabeçalho-itens{
-        max-width: 1928px;
+        max-width: 1600px;
         margin:0 auto;
         display: flex;
         align-items: center;
@@ -76,7 +76,7 @@
         justify-content: space-around;
         }
         .escola{background-image: linear-gradient(#40A2E3,#7FC2EF);
-        color: white;
+        color: rgb(90, 63, 63);
         display:flex;
         justify-content: center;
         padding: 24px 0;
